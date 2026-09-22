@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">EGE — LOCK SCREEN</string>
+    <string name="rune_enter_passcode">ENTER RUNIC PASSCODE</string>
+    <string name="rune_system_standby">SYSTEM IN MONARCH STANDBY</string>
+    <string name="rune_unlocked">MONARCH SANCTUM UNLOCKED</string>
+    <string name="rune_invalid">INCANTATION REJECTED</string>
+</resources>
